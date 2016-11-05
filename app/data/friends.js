@@ -14,7 +14,55 @@ var dataArray=[
 	     4,
 	     1
 	   ]
+	},
+	{
+	  "name":"Surya ",
+	  "photo":"http://www.suryafansclub.com/wp-content/uploads/2016/04/surya-2016-photos-02-568x700.jpg",
+	  "scores":[
+	     5,
+	     1,
+	     4,
+	     4,
+	     5,
+	     5,
+	     2,
+	     3,
+	     1,
+	     1
+	   ]
+	},
+	{
+	  "name":"Julia Roberts",
+	  "photo":"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzNjU3MDczN15BMl5BanBnXkFtZTYwNzY2Njc4._V1_UX214_CR0,0,214,317_AL_.jpg",
+	  "scores":[
+	     5,
+	     1,
+	     3,
+	     4,
+	     2,
+	     1,
+	     2,
+	     5,
+	     4,
+	     5
+	   ]
+	},
+	{
+	  "name":"Piyanka",
+	  "photo":"http://www.shortday.in/wp-content/uploads/2015/05/Priyanka-Chopra-Photos-1.jpg",
+	  "scores":[
+	     4,
+	     1,
+	     4,
+	     4,
+	     5,
+	     1,
+	     5,
+	     5,
+	     3,
+	     1
+	   ]
 	}
 ];
 
-	module.exports = dataArray;
+module.exports = dataArray;
